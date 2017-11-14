@@ -19,7 +19,7 @@ Same as JCoinche project but under C#.net
 
 * Compile.
 
-####### MSBuild.exe yourProject.sln
+###### MSBuild.exe yourProject.sln
 
 > You can now find your binaries
 > in : projectName\bin\debug\
@@ -30,8 +30,6 @@ Same as JCoinche project but under C#.net
 
 * launch server.exe
 * enter a proper port to launch the server
-
-***
 
 ## Client
 
